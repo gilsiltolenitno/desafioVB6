@@ -117,3 +117,4 @@ CREATE OR ALTER VIEW  vw_TransacoesClientes
 
 
 
+
