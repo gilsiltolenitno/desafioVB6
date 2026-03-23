@@ -1,0 +1,21 @@
+# VB6 arquivos temporários
+*.log
+*.tmp
+*.obj
+*.exp
+*.lib
+
+# Compilados
+*.exe
+*.dll
+*.ocx
+
+# Cache VB6
+*.oca
+
+# Arquivos desnecessários
+*.vbw
+
+# Sistema
+Thumbs.db
+Desktop.ini
